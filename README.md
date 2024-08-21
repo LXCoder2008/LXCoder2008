@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LXCODER2008
 - 👀 I’m love playing table tennis and exploring new things.
 
-<img src="./IMAGE/LXCODER2008/LXCODER2008.svg" style="zoom:35%" />
+<img src="./IMAGE/LXCODER2008/LXCODER2008.svg" style="zoom:1%" />
 
 ## 理念：
 - **LX**：作者姓名“小纯”的缩写。
